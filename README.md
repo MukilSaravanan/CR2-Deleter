@@ -1,3 +1,10 @@
+![Python3](https://img.shields.io/badge/python-3-blue)
+![RAW Image](https://img.shields.io/badge/RAW%20Image-CR2-blue)
+
+[![GitHub issues](https://img.shields.io/github/issues/MukilSaravanan/CR2-Deleter)](https://github.com/MukilSaravanan/CR2-Deleter/issues)
+[![GitHub forks](https://img.shields.io/github/forks/MukilSaravanan/CR2-Deleter)](https://github.com/MukilSaravanan/CR2-Deleter/network)
+[![GitHub stars](https://img.shields.io/github/stars/MukilSaravanan/CR2-Deleter)](https://github.com/MukilSaravanan/CR2-Deleter/stargazers)
+[![GitHub license](https://img.shields.io/github/license/MukilSaravanan/CR2-Deleter)](https://github.com/MukilSaravanan/CR2-Deleter/blob/master/LICENSE)
 # CR2-Deleter
 
 ![logo](https://github.com/MukilSaravanan/CR2-Deleter/blob/master/cr2.ico)
